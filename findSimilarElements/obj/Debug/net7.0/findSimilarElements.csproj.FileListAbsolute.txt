@@ -1,0 +1,15 @@
+D:\Learned Technologies\C#\C# basics\findSimilarElements\obj\Debug\net7.0\findSimilarElements.csproj.AssemblyReference.cache
+D:\Learned Technologies\C#\C# basics\findSimilarElements\obj\Debug\net7.0\findSimilarElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learned Technologies\C#\C# basics\findSimilarElements\obj\Debug\net7.0\findSimilarElements.AssemblyInfoInputs.cache
+D:\Learned Technologies\C#\C# basics\findSimilarElements\obj\Debug\net7.0\findSimilarElements.AssemblyInfo.cs
+D:\Learned Technologies\C#\C# basics\findSimilarElements\obj\Debug\net7.0\findSimilarElements.csproj.CoreCompileInputs.cache
+D:\Learned Technologies\C#\C# basics\findSimilarElements\bin\Debug\net7.0\findSimilarElements.exe
+D:\Learned Technologies\C#\C# basics\findSimilarElements\bin\Debug\net7.0\findSimilarElements.deps.json
+D:\Learned Technologies\C#\C# basics\findSimilarElements\bin\Debug\net7.0\findSimilarElements.runtimeconfig.json
+D:\Learned Technologies\C#\C# basics\findSimilarElements\bin\Debug\net7.0\findSimilarElements.dll
+D:\Learned Technologies\C#\C# basics\findSimilarElements\bin\Debug\net7.0\findSimilarElements.pdb
+D:\Learned Technologies\C#\C# basics\findSimilarElements\obj\Debug\net7.0\findSimilarElements.dll
+D:\Learned Technologies\C#\C# basics\findSimilarElements\obj\Debug\net7.0\refint\findSimilarElements.dll
+D:\Learned Technologies\C#\C# basics\findSimilarElements\obj\Debug\net7.0\findSimilarElements.pdb
+D:\Learned Technologies\C#\C# basics\findSimilarElements\obj\Debug\net7.0\findSimilarElements.genruntimeconfig.cache
+D:\Learned Technologies\C#\C# basics\findSimilarElements\obj\Debug\net7.0\ref\findSimilarElements.dll

@@ -1,0 +1,15 @@
+D:\Learned Technologies\C#\C# basics\arrays\bin\Debug\net7.0\arrays.exe
+D:\Learned Technologies\C#\C# basics\arrays\bin\Debug\net7.0\arrays.deps.json
+D:\Learned Technologies\C#\C# basics\arrays\bin\Debug\net7.0\arrays.runtimeconfig.json
+D:\Learned Technologies\C#\C# basics\arrays\bin\Debug\net7.0\arrays.dll
+D:\Learned Technologies\C#\C# basics\arrays\bin\Debug\net7.0\arrays.pdb
+D:\Learned Technologies\C#\C# basics\arrays\obj\Debug\net7.0\arrays.csproj.AssemblyReference.cache
+D:\Learned Technologies\C#\C# basics\arrays\obj\Debug\net7.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learned Technologies\C#\C# basics\arrays\obj\Debug\net7.0\arrays.AssemblyInfoInputs.cache
+D:\Learned Technologies\C#\C# basics\arrays\obj\Debug\net7.0\arrays.AssemblyInfo.cs
+D:\Learned Technologies\C#\C# basics\arrays\obj\Debug\net7.0\arrays.csproj.CoreCompileInputs.cache
+D:\Learned Technologies\C#\C# basics\arrays\obj\Debug\net7.0\arrays.dll
+D:\Learned Technologies\C#\C# basics\arrays\obj\Debug\net7.0\refint\arrays.dll
+D:\Learned Technologies\C#\C# basics\arrays\obj\Debug\net7.0\arrays.pdb
+D:\Learned Technologies\C#\C# basics\arrays\obj\Debug\net7.0\arrays.genruntimeconfig.cache
+D:\Learned Technologies\C#\C# basics\arrays\obj\Debug\net7.0\ref\arrays.dll

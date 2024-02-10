@@ -1,0 +1,15 @@
+D:\Learned Technologies\C#\C# basics\rollDices\bin\Debug\net7.0\rollDices.exe
+D:\Learned Technologies\C#\C# basics\rollDices\bin\Debug\net7.0\rollDices.deps.json
+D:\Learned Technologies\C#\C# basics\rollDices\bin\Debug\net7.0\rollDices.runtimeconfig.json
+D:\Learned Technologies\C#\C# basics\rollDices\bin\Debug\net7.0\rollDices.dll
+D:\Learned Technologies\C#\C# basics\rollDices\bin\Debug\net7.0\rollDices.pdb
+D:\Learned Technologies\C#\C# basics\rollDices\obj\Debug\net7.0\rollDices.csproj.AssemblyReference.cache
+D:\Learned Technologies\C#\C# basics\rollDices\obj\Debug\net7.0\rollDices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learned Technologies\C#\C# basics\rollDices\obj\Debug\net7.0\rollDices.AssemblyInfoInputs.cache
+D:\Learned Technologies\C#\C# basics\rollDices\obj\Debug\net7.0\rollDices.AssemblyInfo.cs
+D:\Learned Technologies\C#\C# basics\rollDices\obj\Debug\net7.0\rollDices.csproj.CoreCompileInputs.cache
+D:\Learned Technologies\C#\C# basics\rollDices\obj\Debug\net7.0\rollDices.dll
+D:\Learned Technologies\C#\C# basics\rollDices\obj\Debug\net7.0\refint\rollDices.dll
+D:\Learned Technologies\C#\C# basics\rollDices\obj\Debug\net7.0\rollDices.pdb
+D:\Learned Technologies\C#\C# basics\rollDices\obj\Debug\net7.0\rollDices.genruntimeconfig.cache
+D:\Learned Technologies\C#\C# basics\rollDices\obj\Debug\net7.0\ref\rollDices.dll
