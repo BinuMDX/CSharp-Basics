@@ -1,0 +1,15 @@
+D:\Learned Technologies\C#\C# basics\improveReadability\bin\Debug\net7.0\improveReadability.exe
+D:\Learned Technologies\C#\C# basics\improveReadability\bin\Debug\net7.0\improveReadability.deps.json
+D:\Learned Technologies\C#\C# basics\improveReadability\bin\Debug\net7.0\improveReadability.runtimeconfig.json
+D:\Learned Technologies\C#\C# basics\improveReadability\bin\Debug\net7.0\improveReadability.dll
+D:\Learned Technologies\C#\C# basics\improveReadability\bin\Debug\net7.0\improveReadability.pdb
+D:\Learned Technologies\C#\C# basics\improveReadability\obj\Debug\net7.0\improveReadability.csproj.AssemblyReference.cache
+D:\Learned Technologies\C#\C# basics\improveReadability\obj\Debug\net7.0\improveReadability.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learned Technologies\C#\C# basics\improveReadability\obj\Debug\net7.0\improveReadability.AssemblyInfoInputs.cache
+D:\Learned Technologies\C#\C# basics\improveReadability\obj\Debug\net7.0\improveReadability.AssemblyInfo.cs
+D:\Learned Technologies\C#\C# basics\improveReadability\obj\Debug\net7.0\improveReadability.csproj.CoreCompileInputs.cache
+D:\Learned Technologies\C#\C# basics\improveReadability\obj\Debug\net7.0\improveReadability.dll
+D:\Learned Technologies\C#\C# basics\improveReadability\obj\Debug\net7.0\refint\improveReadability.dll
+D:\Learned Technologies\C#\C# basics\improveReadability\obj\Debug\net7.0\improveReadability.pdb
+D:\Learned Technologies\C#\C# basics\improveReadability\obj\Debug\net7.0\improveReadability.genruntimeconfig.cache
+D:\Learned Technologies\C#\C# basics\improveReadability\obj\Debug\net7.0\ref\improveReadability.dll
